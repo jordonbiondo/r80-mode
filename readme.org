@@ -1,0 +1,2 @@
+* r80-mode: right align code at 80 columns.
+  Real programmers use this style.
